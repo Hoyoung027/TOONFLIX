@@ -1,16 +1,28 @@
-# toonflix
+# Toonflix
 
-A new Flutter project.
+플러터 기반 웹툰 앱 프로젝트입니다.
 
-## Getting Started
+이 프로젝트는 [노마드코더의 Flutter for Beginners 강의](https://nomadcoders.co/flutter-for-beginners/lobby)를 따라가며 학습하는 프로젝트입니다.
 
-This project is a starting point for a Flutter application.
+## 강의 정보
 
-A few resources to get you started if this is your first Flutter project:
+- **강의명**: Flutter for Beginners
+- **강의 링크**: https://nomadcoders.co/flutter-for-beginners/lobby
+- **강의 제공**: Nomad Coders
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 프로젝트 구조
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+lib/
+├── app/
+│   └── balance_app.dart
+├── main.dart
+└── widgets/
+    ├── button.dart
+    └── currency_card.dart
+```
+
+## 기술 스택
+
+- Flutter
+- Dart
