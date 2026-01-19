@@ -24,7 +24,7 @@ class BalanceApp extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.end,
                       children: [
                         const Text(
-                          "Hey, Younghyeon",
+                          "Hey, Younghyun",
                           style: TextStyle(
                             color: Colors.white,
                             fontSize: 28,
